@@ -1,0 +1,624 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		189364642A4064C6000C82EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189364632A4064C6000C82EC /* AppDelegate.swift */; };
+		189364662A4064C6000C82EC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189364652A4064C6000C82EC /* SceneDelegate.swift */; };
+		189364682A4064C6000C82EC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189364672A4064C6000C82EC /* ViewController.swift */; };
+		1893646B2A4064C6000C82EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 189364692A4064C6000C82EC /* Main.storyboard */; };
+		1893646E2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1893646C2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodeld */; };
+		189364702A4064C8000C82EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1893646F2A4064C8000C82EC /* Assets.xcassets */; };
+		189364732A4064C8000C82EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 189364712A4064C8000C82EC /* LaunchScreen.storyboard */; };
+		1893647E2A4064C8000C82EC /* SwiftCustomFontsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1893647D2A4064C8000C82EC /* SwiftCustomFontsTests.swift */; };
+		189364882A4064C8000C82EC /* SwiftCustomFontsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189364872A4064C8000C82EC /* SwiftCustomFontsUITests.swift */; };
+		1893648A2A4064C8000C82EC /* SwiftCustomFontsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189364892A4064C8000C82EC /* SwiftCustomFontsUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		1893647A2A4064C8000C82EC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 189364582A4064C6000C82EC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1893645F2A4064C6000C82EC;
+			remoteInfo = SwiftCustomFonts;
+		};
+		189364842A4064C8000C82EC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 189364582A4064C6000C82EC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1893645F2A4064C6000C82EC;
+			remoteInfo = SwiftCustomFonts;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		189364602A4064C6000C82EC /* SwiftCustomFonts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftCustomFonts.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		189364632A4064C6000C82EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		189364652A4064C6000C82EC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		189364672A4064C6000C82EC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		1893646A2A4064C6000C82EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		1893646D2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = SwiftCustomFonts.xcdatamodel; sourceTree = "<group>"; };
+		1893646F2A4064C8000C82EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		189364722A4064C8000C82EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		189364742A4064C8000C82EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		189364792A4064C8000C82EC /* SwiftCustomFontsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftCustomFontsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1893647D2A4064C8000C82EC /* SwiftCustomFontsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftCustomFontsTests.swift; sourceTree = "<group>"; };
+		189364832A4064C8000C82EC /* SwiftCustomFontsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftCustomFontsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		189364872A4064C8000C82EC /* SwiftCustomFontsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftCustomFontsUITests.swift; sourceTree = "<group>"; };
+		189364892A4064C8000C82EC /* SwiftCustomFontsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftCustomFontsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1893645D2A4064C6000C82EC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		189364762A4064C8000C82EC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		189364802A4064C8000C82EC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		189364572A4064C6000C82EC = {
+			isa = PBXGroup;
+			children = (
+				189364622A4064C6000C82EC /* SwiftCustomFonts */,
+				1893647C2A4064C8000C82EC /* SwiftCustomFontsTests */,
+				189364862A4064C8000C82EC /* SwiftCustomFontsUITests */,
+				189364612A4064C6000C82EC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		189364612A4064C6000C82EC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				189364602A4064C6000C82EC /* SwiftCustomFonts.app */,
+				189364792A4064C8000C82EC /* SwiftCustomFontsTests.xctest */,
+				189364832A4064C8000C82EC /* SwiftCustomFontsUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		189364622A4064C6000C82EC /* SwiftCustomFonts */ = {
+			isa = PBXGroup;
+			children = (
+				189364632A4064C6000C82EC /* AppDelegate.swift */,
+				189364652A4064C6000C82EC /* SceneDelegate.swift */,
+				189364672A4064C6000C82EC /* ViewController.swift */,
+				189364692A4064C6000C82EC /* Main.storyboard */,
+				1893646F2A4064C8000C82EC /* Assets.xcassets */,
+				189364712A4064C8000C82EC /* LaunchScreen.storyboard */,
+				189364742A4064C8000C82EC /* Info.plist */,
+				1893646C2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodeld */,
+			);
+			path = SwiftCustomFonts;
+			sourceTree = "<group>";
+		};
+		1893647C2A4064C8000C82EC /* SwiftCustomFontsTests */ = {
+			isa = PBXGroup;
+			children = (
+				1893647D2A4064C8000C82EC /* SwiftCustomFontsTests.swift */,
+			);
+			path = SwiftCustomFontsTests;
+			sourceTree = "<group>";
+		};
+		189364862A4064C8000C82EC /* SwiftCustomFontsUITests */ = {
+			isa = PBXGroup;
+			children = (
+				189364872A4064C8000C82EC /* SwiftCustomFontsUITests.swift */,
+				189364892A4064C8000C82EC /* SwiftCustomFontsUITestsLaunchTests.swift */,
+			);
+			path = SwiftCustomFontsUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1893645F2A4064C6000C82EC /* SwiftCustomFonts */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1893648D2A4064C8000C82EC /* Build configuration list for PBXNativeTarget "SwiftCustomFonts" */;
+			buildPhases = (
+				1893645C2A4064C6000C82EC /* Sources */,
+				1893645D2A4064C6000C82EC /* Frameworks */,
+				1893645E2A4064C6000C82EC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SwiftCustomFonts;
+			productName = SwiftCustomFonts;
+			productReference = 189364602A4064C6000C82EC /* SwiftCustomFonts.app */;
+			productType = "com.apple.product-type.application";
+		};
+		189364782A4064C8000C82EC /* SwiftCustomFontsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 189364902A4064C8000C82EC /* Build configuration list for PBXNativeTarget "SwiftCustomFontsTests" */;
+			buildPhases = (
+				189364752A4064C8000C82EC /* Sources */,
+				189364762A4064C8000C82EC /* Frameworks */,
+				189364772A4064C8000C82EC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1893647B2A4064C8000C82EC /* PBXTargetDependency */,
+			);
+			name = SwiftCustomFontsTests;
+			productName = SwiftCustomFontsTests;
+			productReference = 189364792A4064C8000C82EC /* SwiftCustomFontsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		189364822A4064C8000C82EC /* SwiftCustomFontsUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 189364932A4064C8000C82EC /* Build configuration list for PBXNativeTarget "SwiftCustomFontsUITests" */;
+			buildPhases = (
+				1893647F2A4064C8000C82EC /* Sources */,
+				189364802A4064C8000C82EC /* Frameworks */,
+				189364812A4064C8000C82EC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				189364852A4064C8000C82EC /* PBXTargetDependency */,
+			);
+			name = SwiftCustomFontsUITests;
+			productName = SwiftCustomFontsUITests;
+			productReference = 189364832A4064C8000C82EC /* SwiftCustomFontsUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		189364582A4064C6000C82EC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					1893645F2A4064C6000C82EC = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+					189364782A4064C8000C82EC = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = 1893645F2A4064C6000C82EC;
+					};
+					189364822A4064C8000C82EC = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = 1893645F2A4064C6000C82EC;
+					};
+				};
+			};
+			buildConfigurationList = 1893645B2A4064C6000C82EC /* Build configuration list for PBXProject "SwiftCustomFonts" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 189364572A4064C6000C82EC;
+			productRefGroup = 189364612A4064C6000C82EC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1893645F2A4064C6000C82EC /* SwiftCustomFonts */,
+				189364782A4064C8000C82EC /* SwiftCustomFontsTests */,
+				189364822A4064C8000C82EC /* SwiftCustomFontsUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1893645E2A4064C6000C82EC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				189364732A4064C8000C82EC /* LaunchScreen.storyboard in Resources */,
+				189364702A4064C8000C82EC /* Assets.xcassets in Resources */,
+				1893646B2A4064C6000C82EC /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		189364772A4064C8000C82EC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		189364812A4064C8000C82EC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1893645C2A4064C6000C82EC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				189364682A4064C6000C82EC /* ViewController.swift in Sources */,
+				189364642A4064C6000C82EC /* AppDelegate.swift in Sources */,
+				189364662A4064C6000C82EC /* SceneDelegate.swift in Sources */,
+				1893646E2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodeld in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		189364752A4064C8000C82EC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1893647E2A4064C8000C82EC /* SwiftCustomFontsTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1893647F2A4064C8000C82EC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1893648A2A4064C8000C82EC /* SwiftCustomFontsUITestsLaunchTests.swift in Sources */,
+				189364882A4064C8000C82EC /* SwiftCustomFontsUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		1893647B2A4064C8000C82EC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1893645F2A4064C6000C82EC /* SwiftCustomFonts */;
+			targetProxy = 1893647A2A4064C8000C82EC /* PBXContainerItemProxy */;
+		};
+		189364852A4064C8000C82EC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1893645F2A4064C6000C82EC /* SwiftCustomFonts */;
+			targetProxy = 189364842A4064C8000C82EC /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		189364692A4064C6000C82EC /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1893646A2A4064C6000C82EC /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		189364712A4064C8000C82EC /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				189364722A4064C8000C82EC /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1893648B2A4064C8000C82EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		1893648C2A4064C8000C82EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1893648E2A4064C8000C82EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9B82Y2PAWR;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SwiftCustomFonts/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.FuguSoftware.SwiftCustomFonts;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		1893648F2A4064C8000C82EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9B82Y2PAWR;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SwiftCustomFonts/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.FuguSoftware.SwiftCustomFonts;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		189364912A4064C8000C82EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9B82Y2PAWR;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.FuguSoftware.SwiftCustomFontsTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftCustomFonts.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SwiftCustomFonts";
+			};
+			name = Debug;
+		};
+		189364922A4064C8000C82EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9B82Y2PAWR;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.FuguSoftware.SwiftCustomFontsTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftCustomFonts.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SwiftCustomFonts";
+			};
+			name = Release;
+		};
+		189364942A4064C8000C82EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9B82Y2PAWR;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.FuguSoftware.SwiftCustomFontsUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SwiftCustomFonts;
+			};
+			name = Debug;
+		};
+		189364952A4064C8000C82EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9B82Y2PAWR;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.FuguSoftware.SwiftCustomFontsUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SwiftCustomFonts;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1893645B2A4064C6000C82EC /* Build configuration list for PBXProject "SwiftCustomFonts" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1893648B2A4064C8000C82EC /* Debug */,
+				1893648C2A4064C8000C82EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1893648D2A4064C8000C82EC /* Build configuration list for PBXNativeTarget "SwiftCustomFonts" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1893648E2A4064C8000C82EC /* Debug */,
+				1893648F2A4064C8000C82EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		189364902A4064C8000C82EC /* Build configuration list for PBXNativeTarget "SwiftCustomFontsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				189364912A4064C8000C82EC /* Debug */,
+				189364922A4064C8000C82EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		189364932A4064C8000C82EC /* Build configuration list for PBXNativeTarget "SwiftCustomFontsUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				189364942A4064C8000C82EC /* Debug */,
+				189364952A4064C8000C82EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		1893646C2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				1893646D2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodel */,
+			);
+			currentVersion = 1893646D2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodel */;
+			path = SwiftCustomFonts.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 189364582A4064C6000C82EC /* Project object */;
+}
