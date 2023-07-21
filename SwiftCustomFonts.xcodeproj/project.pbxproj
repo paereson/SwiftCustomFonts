@@ -7,10 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1889DE872A6A9C5200418A56 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889DE862A6A9C5200418A56 /* MainViewController.swift */; };
+		1889DE892A6A9C7000418A56 /* MainViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889DE882A6A9C7000418A56 /* MainViewModel.swift */; };
+		1889DE8C2A6AA02E00418A56 /* UIStackViewEx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889DE8B2A6AA02E00418A56 /* UIStackViewEx.swift */; };
+		1889DE8E2A6AA10300418A56 /* UIViewEx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889DE8D2A6AA10300418A56 /* UIViewEx.swift */; };
+		1889DE912A6AA48000418A56 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889DE902A6AA48000418A56 /* MainView.swift */; };
+		1889DEA52A6AAB8200418A56 /* TiltPrism-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1889DEA42A6AA86A00418A56 /* TiltPrism-Regular.ttf */; };
+		1889DEA72A6AACA200418A56 /* UIFontEx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889DEA62A6AACA200418A56 /* UIFontEx.swift */; };
+		1889DEAE2A6AB32100418A56 /* CustomFonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889DEAD2A6AB32100418A56 /* CustomFonts.swift */; };
 		189364642A4064C6000C82EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189364632A4064C6000C82EC /* AppDelegate.swift */; };
 		189364662A4064C6000C82EC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189364652A4064C6000C82EC /* SceneDelegate.swift */; };
-		189364682A4064C6000C82EC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189364672A4064C6000C82EC /* ViewController.swift */; };
-		1893646B2A4064C6000C82EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 189364692A4064C6000C82EC /* Main.storyboard */; };
 		1893646E2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1893646C2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodeld */; };
 		189364702A4064C8000C82EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1893646F2A4064C8000C82EC /* Assets.xcassets */; };
 		189364732A4064C8000C82EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 189364712A4064C8000C82EC /* LaunchScreen.storyboard */; };
@@ -37,11 +43,29 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1889DE862A6A9C5200418A56 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		1889DE882A6A9C7000418A56 /* MainViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewModel.swift; sourceTree = "<group>"; };
+		1889DE8B2A6AA02E00418A56 /* UIStackViewEx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIStackViewEx.swift; sourceTree = "<group>"; };
+		1889DE8D2A6AA10300418A56 /* UIViewEx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewEx.swift; sourceTree = "<group>"; };
+		1889DE902A6AA48000418A56 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		1889DE942A6AA7D900418A56 /* Lato-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Regular.ttf"; sourceTree = "<group>"; };
+		1889DE952A6AA7DA00418A56 /* Lato-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Bold.ttf"; sourceTree = "<group>"; };
+		1889DE962A6AA7DB00418A56 /* Lato-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Light.ttf"; sourceTree = "<group>"; };
+		1889DE982A6AA80E00418A56 /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Bold.ttf"; sourceTree = "<group>"; };
+		1889DE992A6AA80F00418A56 /* OpenSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Light.ttf"; sourceTree = "<group>"; };
+		1889DE9A2A6AA80F00418A56 /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Regular.ttf"; sourceTree = "<group>"; };
+		1889DE9C2A6AA82600418A56 /* Oswald-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Oswald-Bold.ttf"; sourceTree = "<group>"; };
+		1889DE9D2A6AA82600418A56 /* Oswald-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Oswald-Regular.ttf"; sourceTree = "<group>"; };
+		1889DE9E2A6AA82700418A56 /* Oswald-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Oswald-Light.ttf"; sourceTree = "<group>"; };
+		1889DEA02A6AA84600418A56 /* Roboto-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Light.ttf"; sourceTree = "<group>"; };
+		1889DEA12A6AA84700418A56 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		1889DEA22A6AA84800418A56 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Bold.ttf"; sourceTree = "<group>"; };
+		1889DEA42A6AA86A00418A56 /* TiltPrism-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TiltPrism-Regular.ttf"; sourceTree = "<group>"; };
+		1889DEA62A6AACA200418A56 /* UIFontEx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIFontEx.swift; sourceTree = "<group>"; };
+		1889DEAD2A6AB32100418A56 /* CustomFonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFonts.swift; sourceTree = "<group>"; };
 		189364602A4064C6000C82EC /* SwiftCustomFonts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftCustomFonts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		189364632A4064C6000C82EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		189364652A4064C6000C82EC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		189364672A4064C6000C82EC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		1893646A2A4064C6000C82EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1893646D2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = SwiftCustomFonts.xcdatamodel; sourceTree = "<group>"; };
 		1893646F2A4064C8000C82EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		189364722A4064C8000C82EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -78,6 +102,122 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1889DE832A6A9C0400418A56 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				1889DE862A6A9C5200418A56 /* MainViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		1889DE842A6A9C0D00418A56 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				1889DE882A6A9C7000418A56 /* MainViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		1889DE852A6A9C1A00418A56 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				189364632A4064C6000C82EC /* AppDelegate.swift */,
+				189364652A4064C6000C82EC /* SceneDelegate.swift */,
+				1889DE922A6AA7A100418A56 /* Fonts */,
+				1893646F2A4064C8000C82EC /* Assets.xcassets */,
+				189364712A4064C8000C82EC /* LaunchScreen.storyboard */,
+				1893646C2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodeld */,
+				189364742A4064C8000C82EC /* Info.plist */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1889DE8A2A6A9F7F00418A56 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				1889DE8B2A6AA02E00418A56 /* UIStackViewEx.swift */,
+				1889DE8D2A6AA10300418A56 /* UIViewEx.swift */,
+				1889DEA62A6AACA200418A56 /* UIFontEx.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		1889DE8F2A6AA46200418A56 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				1889DE902A6AA48000418A56 /* MainView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		1889DE922A6AA7A100418A56 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				1889DEA32A6AA85B00418A56 /* Tilt_Prism */,
+				1889DE9F2A6AA83800418A56 /* Roboto */,
+				1889DE9B2A6AA81A00418A56 /* Oswald */,
+				1889DE972A6AA7E800418A56 /* Open_Sans */,
+				1889DE932A6AA7C100418A56 /* Lato */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		1889DE932A6AA7C100418A56 /* Lato */ = {
+			isa = PBXGroup;
+			children = (
+				1889DE952A6AA7DA00418A56 /* Lato-Bold.ttf */,
+				1889DE962A6AA7DB00418A56 /* Lato-Light.ttf */,
+				1889DE942A6AA7D900418A56 /* Lato-Regular.ttf */,
+			);
+			path = Lato;
+			sourceTree = "<group>";
+		};
+		1889DE972A6AA7E800418A56 /* Open_Sans */ = {
+			isa = PBXGroup;
+			children = (
+				1889DE982A6AA80E00418A56 /* OpenSans-Bold.ttf */,
+				1889DE992A6AA80F00418A56 /* OpenSans-Light.ttf */,
+				1889DE9A2A6AA80F00418A56 /* OpenSans-Regular.ttf */,
+			);
+			path = Open_Sans;
+			sourceTree = "<group>";
+		};
+		1889DE9B2A6AA81A00418A56 /* Oswald */ = {
+			isa = PBXGroup;
+			children = (
+				1889DE9C2A6AA82600418A56 /* Oswald-Bold.ttf */,
+				1889DE9E2A6AA82700418A56 /* Oswald-Light.ttf */,
+				1889DE9D2A6AA82600418A56 /* Oswald-Regular.ttf */,
+			);
+			path = Oswald;
+			sourceTree = "<group>";
+		};
+		1889DE9F2A6AA83800418A56 /* Roboto */ = {
+			isa = PBXGroup;
+			children = (
+				1889DEA22A6AA84800418A56 /* Roboto-Bold.ttf */,
+				1889DEA02A6AA84600418A56 /* Roboto-Light.ttf */,
+				1889DEA12A6AA84700418A56 /* Roboto-Regular.ttf */,
+			);
+			path = Roboto;
+			sourceTree = "<group>";
+		};
+		1889DEA32A6AA85B00418A56 /* Tilt_Prism */ = {
+			isa = PBXGroup;
+			children = (
+				1889DEA42A6AA86A00418A56 /* TiltPrism-Regular.ttf */,
+			);
+			path = Tilt_Prism;
+			sourceTree = "<group>";
+		};
+		1889DEAA2A6AB29A00418A56 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				1889DEAD2A6AB32100418A56 /* CustomFonts.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
 		189364572A4064C6000C82EC = {
 			isa = PBXGroup;
 			children = (
@@ -101,14 +241,12 @@
 		189364622A4064C6000C82EC /* SwiftCustomFonts */ = {
 			isa = PBXGroup;
 			children = (
-				189364632A4064C6000C82EC /* AppDelegate.swift */,
-				189364652A4064C6000C82EC /* SceneDelegate.swift */,
-				189364672A4064C6000C82EC /* ViewController.swift */,
-				189364692A4064C6000C82EC /* Main.storyboard */,
-				1893646F2A4064C8000C82EC /* Assets.xcassets */,
-				189364712A4064C8000C82EC /* LaunchScreen.storyboard */,
-				189364742A4064C8000C82EC /* Info.plist */,
-				1893646C2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodeld */,
+				1889DE852A6A9C1A00418A56 /* Supporting Files */,
+				1889DEAA2A6AB29A00418A56 /* Models */,
+				1889DE842A6A9C0D00418A56 /* ViewModels */,
+				1889DE832A6A9C0400418A56 /* ViewControllers */,
+				1889DE8F2A6AA46200418A56 /* Views */,
+				1889DE8A2A6A9F7F00418A56 /* Extensions */,
 			);
 			path = SwiftCustomFonts;
 			sourceTree = "<group>";
@@ -234,9 +372,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1889DEA52A6AAB8200418A56 /* TiltPrism-Regular.ttf in Resources */,
 				189364732A4064C8000C82EC /* LaunchScreen.storyboard in Resources */,
 				189364702A4064C8000C82EC /* Assets.xcassets in Resources */,
-				1893646B2A4064C6000C82EC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,10 +399,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				189364682A4064C6000C82EC /* ViewController.swift in Sources */,
+				1889DE8C2A6AA02E00418A56 /* UIStackViewEx.swift in Sources */,
+				1889DE912A6AA48000418A56 /* MainView.swift in Sources */,
+				1889DE892A6A9C7000418A56 /* MainViewModel.swift in Sources */,
 				189364642A4064C6000C82EC /* AppDelegate.swift in Sources */,
+				1889DE8E2A6AA10300418A56 /* UIViewEx.swift in Sources */,
 				189364662A4064C6000C82EC /* SceneDelegate.swift in Sources */,
 				1893646E2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodeld in Sources */,
+				1889DEAE2A6AB32100418A56 /* CustomFonts.swift in Sources */,
+				1889DEA72A6AACA200418A56 /* UIFontEx.swift in Sources */,
+				1889DE872A6A9C5200418A56 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,14 +445,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		189364692A4064C6000C82EC /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				1893646A2A4064C6000C82EC /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		189364712A4064C8000C82EC /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -443,10 +579,10 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 9B82Y2PAWR;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = SwiftCustomFonts/Info.plist;
+				INFOPLIST_FILE = "SwiftCustomFonts/Supporting Files/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIMainStoryboardFile = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -471,10 +607,10 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 9B82Y2PAWR;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = SwiftCustomFonts/Info.plist;
+				INFOPLIST_FILE = "SwiftCustomFonts/Supporting Files/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIMainStoryboardFile = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
