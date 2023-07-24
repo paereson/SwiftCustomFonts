@@ -8,8 +8,8 @@
 import UIKit
 
 final class MainViewController: UIViewController {
-    // MARK: - Properties
     
+    // MARK: - Properties
     let backedView = MainView()
 
     // MARK: - Life cycle

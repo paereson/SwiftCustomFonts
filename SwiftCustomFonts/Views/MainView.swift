@@ -9,7 +9,7 @@ import UIKit
 
 final class MainView: UIView {
     
-    // MARK: - UI Objects
+    // MARK: - Properties
     let scrollView = UIScrollView()
     let mainStackView: UIStackView = {
         var stackView = UIStackView()
@@ -37,8 +37,8 @@ final class MainView: UIView {
         l.numberOfLines = 0
         l.textAlignment = .left
         l.font = .customFont(
-            font: .tiltPrism,
-            style: .regular,
+            font: .oswald,
+            style: .bold,
             size: .h0)
         return l
     }()
@@ -49,8 +49,8 @@ final class MainView: UIView {
         l.numberOfLines = 0
         l.textAlignment = .left
         l.font = .customFont(
-            font: .tiltPrism,
-            style: .regular,
+            font: .openSans,
+            style: .light,
             size: .h0)
         return l
     }()
@@ -61,7 +61,7 @@ final class MainView: UIView {
         l.numberOfLines = 0
         l.textAlignment = .left
         l.font = .customFont(
-            font: .tiltPrism,
+            font: .lato,
             style: .regular,
             size: .h0)
         return l
@@ -73,7 +73,7 @@ final class MainView: UIView {
         l.numberOfLines = 0
         l.textAlignment = .left
         l.font = .customFont(
-            font: .tiltPrism,
+            font: .roboto,
             style: .regular,
             size: .h0)
         return l

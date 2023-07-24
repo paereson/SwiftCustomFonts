@@ -14,7 +14,21 @@
 		1889DE912A6AA48000418A56 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889DE902A6AA48000418A56 /* MainView.swift */; };
 		1889DEA52A6AAB8200418A56 /* TiltPrism-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1889DEA42A6AA86A00418A56 /* TiltPrism-Regular.ttf */; };
 		1889DEA72A6AACA200418A56 /* UIFontEx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889DEA62A6AACA200418A56 /* UIFontEx.swift */; };
-		1889DEAE2A6AB32100418A56 /* CustomFonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889DEAD2A6AB32100418A56 /* CustomFonts.swift */; };
+		1889DEB12A6C6BC500418A56 /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1889DEA22A6AA84800418A56 /* Roboto-Bold.ttf */; };
+		1889DEB22A6C6BC700418A56 /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1889DEA02A6AA84600418A56 /* Roboto-Light.ttf */; };
+		1889DEB32A6C6BCA00418A56 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1889DEA12A6AA84700418A56 /* Roboto-Regular.ttf */; };
+		1889DEB42A6C6BD200418A56 /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1889DE9A2A6AA80F00418A56 /* OpenSans-Regular.ttf */; };
+		1889DEB52A6C6BD200418A56 /* Lato-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1889DE942A6AA7D900418A56 /* Lato-Regular.ttf */; };
+		1889DEB62A6C6BD200418A56 /* Oswald-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1889DE9E2A6AA82700418A56 /* Oswald-Light.ttf */; };
+		1889DEB72A6C6BD200418A56 /* Oswald-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1889DE9C2A6AA82600418A56 /* Oswald-Bold.ttf */; };
+		1889DEB82A6C6BD200418A56 /* Lato-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1889DE962A6AA7DB00418A56 /* Lato-Light.ttf */; };
+		1889DEB92A6C6BD200418A56 /* Oswald-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1889DE9D2A6AA82600418A56 /* Oswald-Regular.ttf */; };
+		1889DEBA2A6C6BD200418A56 /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1889DE982A6AA80E00418A56 /* OpenSans-Bold.ttf */; };
+		1889DEBB2A6C6BD200418A56 /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1889DE992A6AA80F00418A56 /* OpenSans-Light.ttf */; };
+		1889DEBC2A6C6BD200418A56 /* Lato-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1889DE952A6AA7DA00418A56 /* Lato-Bold.ttf */; };
+		1889DEBE2A6C6DB400418A56 /* FontsFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889DEBD2A6C6DB400418A56 /* FontsFactory.swift */; };
+		1889DEC02A6F0A4C00418A56 /* MainSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889DEBF2A6F0A4C00418A56 /* MainSwiftUIView.swift */; };
+		1889DEC22A6F0AEC00418A56 /* FontEx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889DEC12A6F0AEC00418A56 /* FontEx.swift */; };
 		189364642A4064C6000C82EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189364632A4064C6000C82EC /* AppDelegate.swift */; };
 		189364662A4064C6000C82EC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189364652A4064C6000C82EC /* SceneDelegate.swift */; };
 		1893646E2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1893646C2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodeld */; };
@@ -62,7 +76,9 @@
 		1889DEA22A6AA84800418A56 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Bold.ttf"; sourceTree = "<group>"; };
 		1889DEA42A6AA86A00418A56 /* TiltPrism-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TiltPrism-Regular.ttf"; sourceTree = "<group>"; };
 		1889DEA62A6AACA200418A56 /* UIFontEx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIFontEx.swift; sourceTree = "<group>"; };
-		1889DEAD2A6AB32100418A56 /* CustomFonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFonts.swift; sourceTree = "<group>"; };
+		1889DEBD2A6C6DB400418A56 /* FontsFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontsFactory.swift; sourceTree = "<group>"; };
+		1889DEBF2A6F0A4C00418A56 /* MainSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainSwiftUIView.swift; sourceTree = "<group>"; };
+		1889DEC12A6F0AEC00418A56 /* FontEx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontEx.swift; sourceTree = "<group>"; };
 		189364602A4064C6000C82EC /* SwiftCustomFonts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftCustomFonts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		189364632A4064C6000C82EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		189364652A4064C6000C82EC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -138,6 +154,7 @@
 				1889DE8B2A6AA02E00418A56 /* UIStackViewEx.swift */,
 				1889DE8D2A6AA10300418A56 /* UIViewEx.swift */,
 				1889DEA62A6AACA200418A56 /* UIFontEx.swift */,
+				1889DEC12A6F0AEC00418A56 /* FontEx.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -146,6 +163,7 @@
 			isa = PBXGroup;
 			children = (
 				1889DE902A6AA48000418A56 /* MainView.swift */,
+				1889DEBF2A6F0A4C00418A56 /* MainSwiftUIView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -158,6 +176,7 @@
 				1889DE9B2A6AA81A00418A56 /* Oswald */,
 				1889DE972A6AA7E800418A56 /* Open_Sans */,
 				1889DE932A6AA7C100418A56 /* Lato */,
+				1889DEBD2A6C6DB400418A56 /* FontsFactory.swift */,
 			);
 			path = Fonts;
 			sourceTree = "<group>";
@@ -213,7 +232,6 @@
 		1889DEAA2A6AB29A00418A56 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				1889DEAD2A6AB32100418A56 /* CustomFonts.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -372,8 +390,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1889DEB32A6C6BCA00418A56 /* Roboto-Regular.ttf in Resources */,
+				1889DEBC2A6C6BD200418A56 /* Lato-Bold.ttf in Resources */,
+				1889DEB72A6C6BD200418A56 /* Oswald-Bold.ttf in Resources */,
+				1889DEBB2A6C6BD200418A56 /* OpenSans-Light.ttf in Resources */,
 				1889DEA52A6AAB8200418A56 /* TiltPrism-Regular.ttf in Resources */,
+				1889DEB82A6C6BD200418A56 /* Lato-Light.ttf in Resources */,
 				189364732A4064C8000C82EC /* LaunchScreen.storyboard in Resources */,
+				1889DEB62A6C6BD200418A56 /* Oswald-Light.ttf in Resources */,
+				1889DEB52A6C6BD200418A56 /* Lato-Regular.ttf in Resources */,
+				1889DEB92A6C6BD200418A56 /* Oswald-Regular.ttf in Resources */,
+				1889DEB42A6C6BD200418A56 /* OpenSans-Regular.ttf in Resources */,
+				1889DEB22A6C6BC700418A56 /* Roboto-Light.ttf in Resources */,
+				1889DEBA2A6C6BD200418A56 /* OpenSans-Bold.ttf in Resources */,
+				1889DEB12A6C6BC500418A56 /* Roboto-Bold.ttf in Resources */,
 				189364702A4064C8000C82EC /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -403,12 +433,14 @@
 				1889DE912A6AA48000418A56 /* MainView.swift in Sources */,
 				1889DE892A6A9C7000418A56 /* MainViewModel.swift in Sources */,
 				189364642A4064C6000C82EC /* AppDelegate.swift in Sources */,
+				1889DEC02A6F0A4C00418A56 /* MainSwiftUIView.swift in Sources */,
 				1889DE8E2A6AA10300418A56 /* UIViewEx.swift in Sources */,
 				189364662A4064C6000C82EC /* SceneDelegate.swift in Sources */,
+				1889DEBE2A6C6DB400418A56 /* FontsFactory.swift in Sources */,
 				1893646E2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodeld in Sources */,
-				1889DEAE2A6AB32100418A56 /* CustomFonts.swift in Sources */,
 				1889DEA72A6AACA200418A56 /* UIFontEx.swift in Sources */,
 				1889DE872A6A9C5200418A56 /* MainViewController.swift in Sources */,
+				1889DEC22A6F0AEC00418A56 /* FontEx.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

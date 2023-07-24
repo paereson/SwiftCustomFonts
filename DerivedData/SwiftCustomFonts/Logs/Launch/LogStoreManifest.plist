@@ -51,6 +51,96 @@
 			<key>uniqueIdentifier</key>
 			<string>01F22978-2F41-4D3A-B395-981749BE8B15</string>
 		</dict>
+		<key>17420306-7EE1-462A-85AC-CB0DABE3E4A8</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A9C3D38A-8BE9-49D7-851A-E1C0D3219AF5</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-SwiftCustomFonts-2023.07.22_21-56-07-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711748567.68177903</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>17420306-7EE1-462A-85AC-CB0DABE3E4A8</string>
+		</dict>
+		<key>1C2CF2C9-0276-4310-9CAE-5D118194A1AF</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>C408D5F7-C2A5-49A4-AED6-34149A993F4F</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-SwiftCustomFonts-2023.07.22_21-59-20-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711748760.04187799</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>1C2CF2C9-0276-4310-9CAE-5D118194A1AF</string>
+		</dict>
 		<key>216F3F94-B7FB-49ED-8C7C-BB9FB99E1C65</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -95,6 +185,51 @@
 			<string>Run SwiftCustomFonts</string>
 			<key>uniqueIdentifier</key>
 			<string>216F3F94-B7FB-49ED-8C7C-BB9FB99E1C65</string>
+		</dict>
+		<key>4593A5FA-B378-43C4-AE9B-E4D9ECCE11E5</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>AA6C5D87-3084-4828-9800-9B254315D4DC</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-SwiftCustomFonts-2023.07.22_21-55-11-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711748511.89304805</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>4593A5FA-B378-43C4-AE9B-E4D9ECCE11E5</string>
 		</dict>
 		<key>496D5AAF-570E-47F7-99D9-28DC35EB9310</key>
 		<dict>
@@ -276,6 +411,51 @@
 			<key>uniqueIdentifier</key>
 			<string>BD9131EF-D8AD-44FB-B008-99F36EF446E7</string>
 		</dict>
+		<key>D0BCE6DC-338A-4B80-B9A7-B236F9FAF7D4</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>6FAADDA3-F478-4245-88AD-BC150285570F</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-SwiftCustomFonts-2023.07.22_21-52-43-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711748363.692325</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>D0BCE6DC-338A-4B80-B9A7-B236F9FAF7D4</string>
+		</dict>
 		<key>E105FB2D-497D-4900-9935-FC6D5867F82F</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -320,6 +500,96 @@
 			<string>Run SwiftCustomFonts</string>
 			<key>uniqueIdentifier</key>
 			<string>E105FB2D-497D-4900-9935-FC6D5867F82F</string>
+		</dict>
+		<key>EC30E47C-06E2-42A7-8974-42DF7DCAA5C6</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>57F155EF-89EC-442E-AC81-C1E85D945799</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-SwiftCustomFonts-2023.07.22_21-52-09-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711748329.25867796</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>EC30E47C-06E2-42A7-8974-42DF7DCAA5C6</string>
+		</dict>
+		<key>F07A8C8A-695E-431E-B8E1-19D149D40F8D</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>4869CAD8-233A-4ABE-B9FE-D926BF15A74B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-SwiftCustomFonts-2023.07.22_21-50-52-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711748252.88563895</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>F07A8C8A-695E-431E-B8E1-19D149D40F8D</string>
 		</dict>
 	</dict>
 </dict>
