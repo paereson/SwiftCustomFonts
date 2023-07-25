@@ -6,13 +6,13 @@ Custom fonts make your app more original. There is more valuable when it's acces
 
 ## Usage
 
-###1) Copy custom fonts to your project
+### 1) Copy custom fonts to your project
 You can easily drag and drop your fonts to a specific folder. Make sure you added files to the correct project.
 
-###2) Add fonts to info.plist
+### 2) Add fonts to info.plist
 Now, we need to add our new fonts to the project info.plist file. All fonts name and styles should be added.
 
-###3) Prepare fonts and style enums for all new fonts
+### 3) Prepare fonts and style enums for all new fonts
 We are ready to prepare an easy font factory to manage our new fonts. Create a class for that. You can specify the style and font size of your app. Here's an example of enums for that:
 ```
 enum CustomFonts: String {
@@ -41,7 +41,7 @@ enum CustomFontSize: CGFloat {
 }
 ```
 
-###4) Prepare UIFonts extension
+### 4) Prepare UIFonts extension
 Static func in UIFonts helps us to deal with new fonts faster. We have all new fonts on hand. Add this static func to the extension:
 ```
 extension UIFont {
@@ -80,7 +80,7 @@ style: .regular,
 size: .h0)
 ```
 
-###5) Customaize it for SwiftUI
+### 5) Customaize it for SwiftUI
 SwiftUI supports dynamic type by default and is multi-line by default. So if you add Text("Some text") to your view, you're done. You can add the extension for Fonts like that:
 ```
 import SwiftUI
