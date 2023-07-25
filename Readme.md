@@ -45,6 +45,7 @@ enum CustomFontSize: CGFloat {
 Static func in UIFonts helps us to deal with new fonts faster. We have all new fonts on hand. Add this static func to the extension:
 ```
 extension UIFont {
+
     static func customFont(
         font: CustomFonts,
         style: CustomFontStyle,
@@ -78,6 +79,7 @@ SwiftUI supports dynamic type by default and is multi-line by default. So if you
 import SwiftUI
 
 extension Font {
+
     static func customFont(
         font: CustomFonts,
         style: CustomFontStyle,
