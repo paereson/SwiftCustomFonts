@@ -34,6 +34,34 @@
 			<key>uniqueIdentifier</key>
 			<string>00B7D9D3-D550-41E6-8144-236EB1B6D073</string>
 		</dict>
+		<key>0279E375-F655-47D4-8DBF-80A4BB74132B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0279E375-F655-47D4-8DBF-80A4BB74132B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3BhZXJlc29uXC9Eb2N1bWVudHNcL1N3aWZ0Q3VzdG9tRm9udHNcL1N3aWZ0Q3VzdG9tRm9udHMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIxODkzNjQ1RjJBNDA2NEM2MDAwQzgyRUMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>711957801.31976902</real>
+			<key>timeStoppedRecording</key>
+			<real>711957804.58794296</real>
+			<key>title</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>0279E375-F655-47D4-8DBF-80A4BB74132B</string>
+		</dict>
 		<key>04202218-2A02-4BD1-B017-40B9B05B24BD</key>
 		<dict>
 			<key>className</key>
@@ -229,6 +257,34 @@
 			<string>Build SwiftCustomFonts</string>
 			<key>uniqueIdentifier</key>
 			<string>212169DE-BBB1-4591-B260-9BE4512A0C2A</string>
+		</dict>
+		<key>21B690E3-FD59-44AF-8FCF-25CE6365C6D6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>21B690E3-FD59-44AF-8FCF-25CE6365C6D6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>711957798.17615294</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>21B690E3-FD59-44AF-8FCF-25CE6365C6D6</string>
 		</dict>
 		<key>22228158-CDF8-4375-A5EA-D4251A577DAA</key>
 		<dict>
@@ -622,6 +678,34 @@
 			<key>uniqueIdentifier</key>
 			<string>5403974F-AF8B-4390-A1EF-B3C299D317F6</string>
 		</dict>
+		<key>54C13985-414F-4BF8-AA3B-21F1B61D90FB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>54C13985-414F-4BF8-AA3B-21F1B61D90FB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9wYWVyZXNvblwvRG9jdW1lbnRzXC9Td2lmdEN1c3RvbUZvbnRzXC9Td2lmdEN1c3RvbUZvbnRzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>711957801.31976902</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>54C13985-414F-4BF8-AA3B-21F1B61D90FB</string>
+		</dict>
 		<key>5551CA0B-561F-4834-B220-F02DE6FADE79</key>
 		<dict>
 			<key>className</key>
@@ -649,6 +733,34 @@
 			<string>Build SwiftCustomFonts</string>
 			<key>uniqueIdentifier</key>
 			<string>5551CA0B-561F-4834-B220-F02DE6FADE79</string>
+		</dict>
+		<key>566527F2-7ABB-4279-BF17-796F500D2A4E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>566527F2-7ABB-4279-BF17-796F500D2A4E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9wYWVyZXNvblwvRG9jdW1lbnRzXC9Td2lmdEN1c3RvbUZvbnRzXC9Td2lmdEN1c3RvbUZvbnRzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>711957798.17615294</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>566527F2-7ABB-4279-BF17-796F500D2A4E</string>
 		</dict>
 		<key>578E56FD-5CE4-49E9-B6F9-67BD899BB3AA</key>
 		<dict>
@@ -874,6 +986,34 @@
 			<key>uniqueIdentifier</key>
 			<string>75610979-1BDC-4A09-B340-EF90898C4CE1</string>
 		</dict>
+		<key>7BEF203D-8ED4-4886-AB48-ED8104DAB491</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7BEF203D-8ED4-4886-AB48-ED8104DAB491.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>711957801.31976902</real>
+			<key>timeStoppedRecording</key>
+			<real>711957804.58794296</real>
+			<key>title</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>7BEF203D-8ED4-4886-AB48-ED8104DAB491</string>
+		</dict>
 		<key>7E700E33-07E5-45D6-BE5A-738BF1A488FF</key>
 		<dict>
 			<key>className</key>
@@ -985,6 +1125,34 @@
 			<string>Build for Previews SwiftCustomFonts</string>
 			<key>uniqueIdentifier</key>
 			<string>8C364716-6A7E-4B4D-9542-B3E554035C6D</string>
+		</dict>
+		<key>ABD85882-3533-4B71-8660-B1B26ACA521C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ABD85882-3533-4B71-8660-B1B26ACA521C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3BhZXJlc29uXC9Eb2N1bWVudHNcL1N3aWZ0Q3VzdG9tRm9udHNcL1N3aWZ0Q3VzdG9tRm9udHMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIxODkzNjQ1RjJBNDA2NEM2MDAwQzgyRUMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>711957798.17615294</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>ABD85882-3533-4B71-8660-B1B26ACA521C</string>
 		</dict>
 		<key>AD8BB404-35F7-4D7C-A9AA-566A7A09E8FD</key>
 		<dict>

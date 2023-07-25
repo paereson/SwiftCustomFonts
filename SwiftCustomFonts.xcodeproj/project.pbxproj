@@ -29,6 +29,7 @@
 		1889DEBE2A6C6DB400418A56 /* FontsFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889DEBD2A6C6DB400418A56 /* FontsFactory.swift */; };
 		1889DEC02A6F0A4C00418A56 /* MainSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889DEBF2A6F0A4C00418A56 /* MainSwiftUIView.swift */; };
 		1889DEC22A6F0AEC00418A56 /* FontEx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889DEC12A6F0AEC00418A56 /* FontEx.swift */; };
+		1889DEC42A6F9AC800418A56 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 1889DEC32A6F9AC800418A56 /* Readme.md */; };
 		189364642A4064C6000C82EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189364632A4064C6000C82EC /* AppDelegate.swift */; };
 		189364662A4064C6000C82EC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189364652A4064C6000C82EC /* SceneDelegate.swift */; };
 		1893646E2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1893646C2A4064C6000C82EC /* SwiftCustomFonts.xcdatamodeld */; };
@@ -79,6 +80,7 @@
 		1889DEBD2A6C6DB400418A56 /* FontsFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontsFactory.swift; sourceTree = "<group>"; };
 		1889DEBF2A6F0A4C00418A56 /* MainSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainSwiftUIView.swift; sourceTree = "<group>"; };
 		1889DEC12A6F0AEC00418A56 /* FontEx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontEx.swift; sourceTree = "<group>"; };
+		1889DEC32A6F9AC800418A56 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 		189364602A4064C6000C82EC /* SwiftCustomFonts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftCustomFonts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		189364632A4064C6000C82EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		189364652A4064C6000C82EC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -239,6 +241,7 @@
 		189364572A4064C6000C82EC = {
 			isa = PBXGroup;
 			children = (
+				1889DEC32A6F9AC800418A56 /* Readme.md */,
 				189364622A4064C6000C82EC /* SwiftCustomFonts */,
 				1893647C2A4064C8000C82EC /* SwiftCustomFontsTests */,
 				189364862A4064C8000C82EC /* SwiftCustomFontsUITests */,
@@ -396,6 +399,7 @@
 				1889DEBB2A6C6BD200418A56 /* OpenSans-Light.ttf in Resources */,
 				1889DEA52A6AAB8200418A56 /* TiltPrism-Regular.ttf in Resources */,
 				1889DEB82A6C6BD200418A56 /* Lato-Light.ttf in Resources */,
+				1889DEC42A6F9AC800418A56 /* Readme.md in Resources */,
 				189364732A4064C8000C82EC /* LaunchScreen.storyboard in Resources */,
 				1889DEB62A6C6BD200418A56 /* Oswald-Light.ttf in Resources */,
 				1889DEB52A6C6BD200418A56 /* Lato-Regular.ttf in Resources */,

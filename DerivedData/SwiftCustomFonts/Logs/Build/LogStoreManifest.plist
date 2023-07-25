@@ -40,6 +40,74 @@
 			<key>uniqueIdentifier</key>
 			<string>1B23EB92-0100-4208-A12D-D6E751929842</string>
 		</dict>
+		<key>31875DAC-B979-4F5C-B31D-EAAAA551095F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>31875DAC-B979-4F5C-B31D-EAAAA551095F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711748803.31270301</real>
+			<key>timeStoppedRecording</key>
+			<real>711748804.31761801</real>
+			<key>title</key>
+			<string>Build SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>31875DAC-B979-4F5C-B31D-EAAAA551095F</string>
+		</dict>
+		<key>32E10988-0802-4112-9C22-916A164447D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>32E10988-0802-4112-9C22-916A164447D4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711957801.31976902</real>
+			<key>timeStoppedRecording</key>
+			<real>711957804.58794296</real>
+			<key>title</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>32E10988-0802-4112-9C22-916A164447D4</string>
+		</dict>
 		<key>399FACA7-25D6-42A9-A15B-91C24FB78253</key>
 		<dict>
 			<key>className</key>
@@ -108,6 +176,40 @@
 			<key>uniqueIdentifier</key>
 			<string>47CDDA11-0D82-40AB-B8FF-72DBEA7EB5E7</string>
 		</dict>
+		<key>4869CAD8-233A-4ABE-B9FE-D926BF15A74B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4869CAD8-233A-4ABE-B9FE-D926BF15A74B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711748252.88940597</real>
+			<key>timeStoppedRecording</key>
+			<real>711748258.70121396</real>
+			<key>title</key>
+			<string>Build SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>4869CAD8-233A-4ABE-B9FE-D926BF15A74B</string>
+		</dict>
 		<key>50117F1B-C0C5-4445-B7B8-7601E77D7D46</key>
 		<dict>
 			<key>className</key>
@@ -141,6 +243,108 @@
 			<string>Build SwiftCustomFonts</string>
 			<key>uniqueIdentifier</key>
 			<string>50117F1B-C0C5-4445-B7B8-7601E77D7D46</string>
+		</dict>
+		<key>57F155EF-89EC-442E-AC81-C1E85D945799</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>57F155EF-89EC-442E-AC81-C1E85D945799.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711748329.25893497</real>
+			<key>timeStoppedRecording</key>
+			<real>711748330.09462905</real>
+			<key>title</key>
+			<string>Build SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>57F155EF-89EC-442E-AC81-C1E85D945799</string>
+		</dict>
+		<key>6FAADDA3-F478-4245-88AD-BC150285570F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6FAADDA3-F478-4245-88AD-BC150285570F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711748363.69255495</real>
+			<key>timeStoppedRecording</key>
+			<real>711748364.69381797</real>
+			<key>title</key>
+			<string>Build SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>6FAADDA3-F478-4245-88AD-BC150285570F</string>
+		</dict>
+		<key>892E4AED-DC1F-4678-87EA-01AAB6D08BC1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>892E4AED-DC1F-4678-87EA-01AAB6D08BC1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711920407.217363</real>
+			<key>timeStoppedRecording</key>
+			<real>711920408.31816697</real>
+			<key>title</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>892E4AED-DC1F-4678-87EA-01AAB6D08BC1</string>
 		</dict>
 		<key>9B7D3820-18B4-4087-9C39-337000E51D14</key>
 		<dict>
@@ -210,6 +414,142 @@
 			<key>uniqueIdentifier</key>
 			<string>A903C637-E200-4BCA-B124-1CA18F156E32</string>
 		</dict>
+		<key>A9C3D38A-8BE9-49D7-851A-E1C0D3219AF5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A9C3D38A-8BE9-49D7-851A-E1C0D3219AF5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711748567.68199301</real>
+			<key>timeStoppedRecording</key>
+			<real>711748569.89266503</real>
+			<key>title</key>
+			<string>Build SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>A9C3D38A-8BE9-49D7-851A-E1C0D3219AF5</string>
+		</dict>
+		<key>AA6C5D87-3084-4828-9800-9B254315D4DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AA6C5D87-3084-4828-9800-9B254315D4DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711748511.89328003</real>
+			<key>timeStoppedRecording</key>
+			<real>711748512.87279701</real>
+			<key>title</key>
+			<string>Build SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>AA6C5D87-3084-4828-9800-9B254315D4DC</string>
+		</dict>
+		<key>BDEFC27A-3A9D-4C92-930B-ED54A2DF7699</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BDEFC27A-3A9D-4C92-930B-ED54A2DF7699.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711920333.86810195</real>
+			<key>timeStoppedRecording</key>
+			<real>711920334.75184202</real>
+			<key>title</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>BDEFC27A-3A9D-4C92-930B-ED54A2DF7699</string>
+		</dict>
+		<key>C408D5F7-C2A5-49A4-AED6-34149A993F4F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C408D5F7-C2A5-49A4-AED6-34149A993F4F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711748760.04210496</real>
+			<key>timeStoppedRecording</key>
+			<real>711748761.03264904</real>
+			<key>title</key>
+			<string>Build SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>C408D5F7-C2A5-49A4-AED6-34149A993F4F</string>
+		</dict>
 		<key>C7E1A445-94C2-4776-87CC-8981AFE9A2C1</key>
 		<dict>
 			<key>className</key>
@@ -243,6 +583,176 @@
 			<string>Build SwiftCustomFonts</string>
 			<key>uniqueIdentifier</key>
 			<string>C7E1A445-94C2-4776-87CC-8981AFE9A2C1</string>
+		</dict>
+		<key>D1B98A6B-4435-43EE-8DE2-0C27E8F1BC61</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D1B98A6B-4435-43EE-8DE2-0C27E8F1BC61.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711957798.17615294</real>
+			<key>timeStoppedRecording</key>
+			<real>711957804.467399</real>
+			<key>title</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>D1B98A6B-4435-43EE-8DE2-0C27E8F1BC61</string>
+		</dict>
+		<key>D5B6D342-B319-4D19-94A5-7594C8D52306</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D5B6D342-B319-4D19-94A5-7594C8D52306.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711920826.16954505</real>
+			<key>timeStoppedRecording</key>
+			<real>711920827.07360005</real>
+			<key>title</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>D5B6D342-B319-4D19-94A5-7594C8D52306</string>
+		</dict>
+		<key>D902EB6C-946A-4D41-A30A-F2CFA697611E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D902EB6C-946A-4D41-A30A-F2CFA697611E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711920299.636186</real>
+			<key>timeStoppedRecording</key>
+			<real>711920300.54445505</real>
+			<key>title</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>D902EB6C-946A-4D41-A30A-F2CFA697611E</string>
+		</dict>
+		<key>DDC43B98-1E16-4E7B-A370-F78E30078614</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DDC43B98-1E16-4E7B-A370-F78E30078614.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711920300.93385601</real>
+			<key>timeStoppedRecording</key>
+			<real>711920300.99071705</real>
+			<key>title</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>DDC43B98-1E16-4E7B-A370-F78E30078614</string>
+		</dict>
+		<key>EB9ED7B2-2E6D-4C2B-BB0C-DAAD15CED2B8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB9ED7B2-2E6D-4C2B-BB0C-DAAD15CED2B8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftCustomFonts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftCustomFonts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>timeStartedRecording</key>
+			<real>711920208.19004798</real>
+			<key>timeStoppedRecording</key>
+			<real>711920213.40342605</real>
+			<key>title</key>
+			<string>Build for Previews SwiftCustomFonts</string>
+			<key>uniqueIdentifier</key>
+			<string>EB9ED7B2-2E6D-4C2B-BB0C-DAAD15CED2B8</string>
 		</dict>
 	</dict>
 </dict>
