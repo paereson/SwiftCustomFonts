@@ -2,7 +2,8 @@
 
 ### Main Points
 
-Custom fonts make your app more original. There is more valuable when it's accessibility-ready. How to add new fonts to your project? You should begin with finding and downloading your favorite fonts. Then you can start adding them to your project.
+Custom fonts make your app more unique. There is more value when it's also accessibility-ready by supporting scaling fonts. Want to know how to add custom fonts to your project? 
+You should begin with finding and downloading your favorite fonts. Then you can start adding them to your project.
 
 ## Usage
 
